@@ -1,5 +1,5 @@
 ﻿<Properties StartupItem="Phoneword_iOS/Phoneword_iOS.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Goedrei's iPhone" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.0" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword_iOS/Info.plist">
     <Files>
       <File FileName="Phoneword_iOS/Entitlements.plist" />
