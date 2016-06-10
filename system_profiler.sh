@@ -1,1 +1,1 @@
-ls /Users/*/vsts-agent
+ls /Users/*/vsts-agent/_work
