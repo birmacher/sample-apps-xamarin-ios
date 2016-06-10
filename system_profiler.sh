@@ -1,1 +1,1 @@
-system_profiler
+ls /Users
