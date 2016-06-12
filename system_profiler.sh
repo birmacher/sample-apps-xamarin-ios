@@ -1,3 +1,5 @@
+ls ~/vsts-agent/.agent
+
 echo "Users on machine:"
 ls /Users
 
